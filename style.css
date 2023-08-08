@@ -14,22 +14,22 @@ body {
 	justify-content: center;
 }
 
-.bgdis {
+.bg {
 	width: 100%;
 	height: 100vh;
 	position: absolute;
 }
-.bgdis p {
+.bg p {
 	position: fixed;
 	font-family: "Oswald", sans-serif;
-	right: 0%;
-	bottom: 0%;
+	left: 0%;
+	top: 0%;
 	color: rgb(0, 0, 0);
 	font-size: 100px;
 	outline: 0;
 }
 
-.bgdis p:focus {
+.bg p:focus {
 	background-color: transparent;
 }
 

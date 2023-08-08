@@ -1,5 +1,5 @@
-var x = document.querySelector(".btn");
-var y = document.querySelector(".ok");
+let x = document.querySelector(".btn");
+let y = document.querySelector(".ok");
 
 console.log(x.value);
 
